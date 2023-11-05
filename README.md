@@ -1,10 +1,14 @@
 # SpringBootAdminServer
 
 ## Without any client server
-![Admin Server with any client GUI](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/3502c667-0dbe-46b7-b835-f6d1ab712134)
+![Admin Server without any client GUI](Images/without_any_admin_client_server.png)
+
+[comment]: <> (https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/3502c667-0dbe-46b7-b835-f6d1ab712134)
 
 ## With one client-server
-![Admin Server with any client GUI](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/f7c74a2f-822f-4d1a-a446-dd6814be76c0)
+![Admin Server with any client GUI](Images/without_a_single_admin_client.png)
+
+[comment]: <> (https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/f7c74a2f-822f-4d1a-a446-dd6814be76c0)
 
 This is a Spring boot admin server to monitor and see other application **[discovery client or Admin client]** actuator data in GUI
 
@@ -53,3 +57,4 @@ spring:
 
 ```
 
+**Not the relative path images will not upload in JIO network**
