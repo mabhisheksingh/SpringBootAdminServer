@@ -1,10 +1,10 @@
 # SpringBootAdminServer
 
 ## Without any client server
-![Admin Server with any client GUI](/Images/with&20a%20admin%20client%20server.png)
+![Admin Server with any client GUI](/Images/without_any_admin_client_server.png)
 
 ## With one client-server
-![Admin Server with any client GUI](/Images/with%20a%20admin%20client%20server.png)
+![Admin Server with any client GUI](/Images/with_a_admin_client_server.png)
 
 This is a Spring boot admin server to monitor and see other application **[discovery client or Admin client]** actuator data in GUI
 
