@@ -1,12 +1,10 @@
 # SpringBootAdminServer
 
-![transactio R N neetoo yadav](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/ff9faf95-bc06-45df-b16b-b0d501c1af78)
-
 ## Without any client server
-![Admin Server with any client GUI](Images/without_any_admin_client_server.PNG)
+![Admin Server with any client GUI](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/3502c667-0dbe-46b7-b835-f6d1ab712134)
 
 ## With one client-server
-![Admin Server with any client GUI](/Images/Image1.PNG)
+![Admin Server with any client GUI](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/f7c74a2f-822f-4d1a-a446-dd6814be76c0)
 
 This is a Spring boot admin server to monitor and see other application **[discovery client or Admin client]** actuator data in GUI
 
