@@ -4,7 +4,7 @@
 ![Admin Server with any client GUI](/Images/without_any_admin_client_server.png)
 
 ## With one client-server
-![Admin Server with any client GUI](/Images/with_a_admin_client_server.png)
+![Admin Server with any client GUI](/Images/Image1.jpg)
 
 This is a Spring boot admin server to monitor and see other application **[discovery client or Admin client]** actuator data in GUI
 
