@@ -3,10 +3,10 @@
 ![transactio R N neetoo yadav](https://github.com/mabhisheksingh/SpringBootAdminServer/assets/87180842/ff9faf95-bc06-45df-b16b-b0d501c1af78)
 
 ## Without any client server
-![Admin Server with any client GUI](/Images/without_any_admin_client_server.png)
+![Admin Server with any client GUI](Images/without_any_admin_client_server.PNG)
 
 ## With one client-server
-![Admin Server with any client GUI](/Images/Image1.jpg)
+![Admin Server with any client GUI](/Images/Image1.PNG)
 
 This is a Spring boot admin server to monitor and see other application **[discovery client or Admin client]** actuator data in GUI
 
