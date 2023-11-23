@@ -56,5 +56,12 @@ spring:
     name: WebFluxSpringApplication
 
 ```
+#### Need admin client dependency on client side
+```xml
+<dependency>
+    <groupId>de.codecentric</groupId>
+    <artifactId>spring-boot-admin-starter-client</artifactId>
+</dependency>
+```
 
 **Not the relative path images will not upload in JIO network**
